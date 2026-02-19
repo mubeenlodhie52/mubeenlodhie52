@@ -1,4 +1,4 @@
-<h1 align="center" > <b> Muhammad Mubeen Khan </b> </h1>
+<h1 align="center" >Muhammad Mubeen Khan</h1>
 
 <br>
 <p align="center">
