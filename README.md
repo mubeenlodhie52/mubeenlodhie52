@@ -2,7 +2,7 @@
 
 <br>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=4000&pause=500&color=0F7CFF&width=900&lines=   Hello,+I+am+Mubeen+Khan;Welcome+to+My+Profile;BS+Computer+Science+Student" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=4000&pause=500&color=0F7CFF&width=900&lines=++++Hello,+I+am+Mubeen+Khan;Welcome+to+My+Profile;BS+Computer+Science+Student" />
 </p>
 
 
