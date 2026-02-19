@@ -1,6 +1,7 @@
 # Muhammad Mubeen Khan 
 
-![Scrolling Text](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=0F7CFF&width=500&lines=Hello,+I+am+Mubeen;Welcome+to+My+Portfolio)
+
 
 
 ## About Me:
