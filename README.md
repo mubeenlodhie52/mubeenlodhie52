@@ -1,6 +1,9 @@
 <h1 align="center" > <b> Muhammad Mubeen Khan </b> </h1>
 
-<h2 align="center" > ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=0F7CFF&width=500&lines=Hello,+I+am+Mubeen;Welcome+to+My+Portfolio) </h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&duration=4000&pause=500&color=0F7CFF&width=700&lines=Hello,+I+am+Mubeen;Welcome+to+My+Portfolio" />
+</p>
+
 
 
 
