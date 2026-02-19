@@ -1,5 +1,8 @@
 # Muhammad Mubeen Khan 
 
+![Scrolling Text](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
+
+
 ## About Me:
 <br>👨‍💻 Computer Science student passionate about backend development and MERN stack<br><br>🔹 Experienced in building REST APIs, CRUD applications, and desktop Java projects<br><br>🛠️ Skilled inJava, Python,  Node.js, Express, MongoDB, React.js, and Git<br><br>🎯 Strong foundation in OOP, data structures, and algorithms<br><br>🚀 Continuously learning and building projects to solve real-world problems<br><br>🌐 Sharing my progress on GitHub and LinkedIn to document my learning journey.<br><br>
 
